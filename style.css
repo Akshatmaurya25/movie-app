@@ -1,0 +1,13 @@
+body{
+ 
+    padding: 4rem;
+    display : flex;
+    gap : 2rem;
+    flex-wrap: wrap;
+}
+.he{
+    display: flex;
+    gap: .25rem;
+    font-size: .8rem;
+    color: gray;
+}
