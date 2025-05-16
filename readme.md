@@ -1,5 +1,3 @@
-
-
 ````markdown
 # Under_Score
 
@@ -85,44 +83,22 @@ Under_Score is a decentralized sports betting application built on the Solana bl
 
 ### Deploying Smart Contracts
 
-1. Clone the repo:
+```bash
+git clone https://github.com/your-org/underscore.git
+cd underscore
 
-   ```bash
-   git clone https://github.com/your-org/underscore.git
-   cd underscore
-   ```
+cargo build-bpf
 
-2. Build the Solana smart contract:
-
-   ```bash
-   cargo build-bpf
-   ```
-
-3. Deploy to Solana devnet:
-
-   ```bash
-   solana program deploy path/to/your_program.so
-   ```
+solana program deploy path/to/your_program.so
+```
 
 ### Frontend Setup
 
-1. Navigate to frontend directory:
-
-   ```bash
-   cd frontend
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Start local dev server:
-
-   ```bash
-   npm run dev
-   ```
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
 ---
 
@@ -157,16 +133,20 @@ MIT License © 2025 Under\_Score Team
 
 ## Contact
 
-For questions or partnership inquiries: urmaliyadiv04@gmail.com
-Akshatmaurya25@gmail.com 
-skartik1706@gmail.com 
-pranesh25joshi@gmail.com 
-tripathiyatharth257@gmail.com 
+For questions or partnership inquiries, please reach out to any of the following emails:
 
-Follow us on Twitter: [@Under_Score_Sol](https://twitter.com/Under_Score_Sol)
+* [urmaliyadiv04@gmail.com](mailto:urmaliyadiv04@gmail.com)
+* [Akshatmaurya25@gmail.com](mailto:Akshatmaurya25@gmail.com)
+* [skartik1706@gmail.com](mailto:skartik1706@gmail.com)
+* [pranesh25joshi@gmail.com](mailto:pranesh25joshi@gmail.com)
+* [tuspatidar2311@gmail.com](mailto:tuspatidar2311@gmail.com)
+* [tripathiyatharth257@gmail.com](mailto:tripathiyatharth257@gmail.com)
+
+Follow us on Twitter: [@Under\_Score\_Sol](https://twitter.com/Under_Score_Sol)
 
 ---
 
 *Under\_Score — Bet Fair, Win Fast, On-Chain.*
 
-
+```
+```
