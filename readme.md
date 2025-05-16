@@ -1,4 +1,4 @@
-````markdown
+
 # Under_Score
 
 Under_Score is a decentralized sports betting application built on the Solana blockchain. It leverages decentralized oracle technology (Switchboard) to provide real-time verified sports data, and employs Automated Market Makers (AMM) to dynamically calculate betting odds. Under_Score ensures transparency, fairness, and instant payouts through smart contracts, making blockchain-based sports betting accessible and trustworthy for users worldwide.
@@ -30,7 +30,7 @@ Under_Score is a decentralized sports betting application built on the Solana bl
        liquidity_pool[match_id].draw = 0;
        Ok(())
    }
-````
+
 
 2. **Bet Placement:**
    Users place bets on Team A, Team B, or a Draw. Odds adjust dynamically using AMM logic to keep the product of available liquidity constant.
