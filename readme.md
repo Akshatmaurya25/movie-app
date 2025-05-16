@@ -1,4 +1,4 @@
-Certainly! Here’s a detailed, professional, and descriptive `README.md` file for the Under\_Score project, including code snippets illustrating key concepts:
+
 
 ````markdown
 # Under_Score
@@ -157,14 +157,16 @@ MIT License © 2025 Under\_Score Team
 
 ## Contact
 
-For questions or partnership inquiries: [contact@underscore.app](mailto:contact@underscore.app)
-Follow us on Twitter: [@underscoreapp](https://twitter.com/underscoreapp)
+For questions or partnership inquiries: urmaliyadiv04@gmail.com
+Akshatmaurya25@gmail.com 
+skartik1706@gmail.com 
+pranesh25joshi@gmail.com 
+tripathiyatharth257@gmail.com 
+
+Follow us on Twitter: [@Under_Score_Sol](https://twitter.com/Under_Score_Sol)
 
 ---
 
 *Under\_Score — Bet Fair, Win Fast, On-Chain.*
 
-```
 
-Let me know if you want me to include example frontend code snippets or wallet integration as well!
-```
