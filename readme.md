@@ -1,4 +1,6 @@
-![Under_Score Logo]([https://example.com/path/to/logo.png](https://ik.imagekit.io/d2v6okduo/Frame%2010.png?updatedAt=1747417360163))
+<p align="center">
+  <img src="https://ik.imagekit.io/d2v6okduo/Frame%2010.png?updatedAt=1747417360163" alt="Under_Score Logo" width="250"/>
+</p>
 
 # Under_Score
 
